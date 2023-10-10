@@ -1,4 +1,4 @@
-# Implementación de Login - Clase 19 - Galeano Pablo
+# Refactor a nuestro Login - Clase 21 - Galeano Pablo
 ## Comisión: 47295
 
 ### Alumno: Pablo Galeano
@@ -10,6 +10,9 @@
 [![HTML 5](https://img.shields.io/badge/HTML_5-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]() [![CSS 3](https://img.shields.io/badge/CSS_3-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()[![MongoDB](https://img.shields.io/badge/handlebars-F26726?style=for-the-badge&logo=handlebars.js&logoColor=white&labelColor=101010)]()
 
 ##
+* El usuario adminCoder@coder.com se encuentra como administrador
+
+* Se agregó el logeo a través de github
 
 * Se hicieron los test propuestos.
 
@@ -54,6 +57,23 @@ npm install connect-mongo
 ```
 npm install express-session 
 ```
+### passport
+```
+npm install passport
+```
+### passport GitHub
+```
+npm install passport-github2
+```
+### passport-local
+```
+npm install passport-local
+```
+### Bcrypt
+```
+npm install bcrypt
+```
+
 
 ##
 * Para correr  la aplicación en modo desarrollador se debe escribir en la terminal:
